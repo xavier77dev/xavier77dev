@@ -3,7 +3,7 @@
 
 
 <p align="left">
-<!-- <a href="https://edit-link"><img src="https://img.shields.io/badge/-edit-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a> -->
+<a href="https://www.linkedin.com/in/xavier77dev/"><img src="https://img.shields.io/badge/-xavier777dev-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
 <a href="mailto:xavier.basurto.77@gmail.com"><img src="https://img.shields.io/badge/xavier.basurto.77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=xavier77dev" alt="xavier77dev"> 
 </p>

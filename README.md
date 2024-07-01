@@ -14,7 +14,6 @@
 - React
 - Frontend and Backend Web Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xavier77dev&layout=compact">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xavier77dev&show_icons=true&locale=en&layout=compact" alt="xavier77dev" />
 <br>
 

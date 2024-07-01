@@ -1,11 +1,11 @@
 <h1>Hi there, Welcome to my humble abode in the Digital World.. 👋</h1> 
 <br>
 
-<img style="right" src="https://komarev.com/ghpvc/?username=xavier77dev" alt="xavier77dev"> 
 
-<p style="left">
+<p align="left">
 <!-- <a href="https://edit-link"><img src="https://img.shields.io/badge/-edit-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a> -->
 <a href="mailto:xavier.basurto.77@gmail.com"><img src="https://img.shields.io/badge/xavier.basurto.77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=xavier77dev" alt="xavier77dev"> 
 </p>
 
 
@@ -19,7 +19,7 @@
 <br>
 
 ## Programming Languages
-<div style="left">
+<div align="left">
     <img height="40" src="./img/javascript.svg" alt="javascript"/> 
     <img height="40" src="./img/python.svg" alt="python"/> 
     <img height="40" src="./img/php.svg" alt="php"/> 

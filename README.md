@@ -1,12 +1,13 @@
 <h1>Hi there, Welcome to my humble abode in the Digital World.. 👋</h1> 
 <br>
-<div style="display: flex; justify-content: space-between; align-items: center">
-    <p style="display: flex; gap: 1rem">
-    <!-- <a href="https://edit-link"><img src="https://img.shields.io/badge/-edit-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a> -->
-    <a href="mailto:xavier.basurto.77@gmail.com"><img src="https://img.shields.io/badge/xavier.basurto.77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
-    </p>
-    <img style="margin-bottom: 20px" src="https://komarev.com/ghpvc/?username=xavier77dev" alt="xavier77dev">
-</div>
+
+<img style="right" src="https://komarev.com/ghpvc/?username=xavier77dev" alt="xavier77dev"> 
+
+<p style="left">
+<!-- <a href="https://edit-link"><img src="https://img.shields.io/badge/-edit-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a> -->
+<a href="mailto:xavier.basurto.77@gmail.com"><img src="https://img.shields.io/badge/xavier.basurto.77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
+</p>
+
 
 ## :computer: Technologies I Love
 

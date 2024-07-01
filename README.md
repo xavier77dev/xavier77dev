@@ -76,9 +76,6 @@ class WhoAmI {
 
     getAmbitions() {
         return [
-        'Learn Japanese',
-        'Create SkyNet',
-        'Finish My Novel',
         'Travel the world',
         'Run a marathon',
         'Contribute to open-source projects'
